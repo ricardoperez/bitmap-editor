@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-module BitMapEditor
+module BitmapEditor
   describe Application do
     subject { described_class.new }
     
